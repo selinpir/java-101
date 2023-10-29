@@ -7,3 +7,6 @@
  not ortalaması hesaplama-1
  KDV Tutarı Hesaplama-2
  Vücut Kitle İndeksi Hesaplama -3
+ 
+**java 101-3**
+mantıksal operatörler / if- else / switch- case / burç bulan program
