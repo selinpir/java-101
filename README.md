@@ -17,3 +17,7 @@ Java ile mesafeye ve şartlara göre uçak bileti fiyatı hesaplayan program
 **java 101-5**
 döngüler(while, do while, for)
 continue ve break komutları
+
+**java 101-6**
+ATM Projesi + switch case ile ATM Projesi
+
