@@ -24,3 +24,8 @@ ATM Projesi + switch case ile ATM Projesi
 **java 101-7**
 // metodlar// Return (geri dönüşü olan) , Void (geri dönüşü olmayan) metotlar tanımı// Metotlarda Overloading (Aşırı Yüklenme)
 // Metotlarda Local Değişken Yapıları// Recursive Özyineli Metotlar// Palindrom Sayı Bulan Program
+
+**java 101-8**
+
+**java 101-9**
+Asal Sayı Bulan Program
